@@ -1,0 +1,33 @@
+.capatotal{
+  margin-top:2%;}
+div div div{
+    display:inline
+   
+}
+div div div div:first-child{
+     background-color: blue;
+     color:red;
+      box-shadow: 14px 14px 6px black;
+}
+div div div~div{
+   
+  background: url()100% 10% no-repeat;
+  background-size:200%; 
+  border-radius: 111px 111px 111px 111px;
+-moz-border-radius: 111px 111px 111px 111px;
+-webkit-border-radius: 111px 111px 111px 111px;
+border: 5px solid #000000;
+padding:12px;
+
+
+}
+img {
+position:fixed;
+  margin-top:5%;
+text-align: center;
+left:20%;
+border-radius: 45px 45px 45px 45px;
+-moz-border-radius: 45px 45px 45px 45px;
+-webkit-border-radius: 45px 45px 45px 45px;
+border: 5px solid #140cf0;
+}
